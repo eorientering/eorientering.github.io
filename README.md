@@ -1,4 +1,4 @@
 # E-Orientering
-## Fantasy Orienteering Manager
+Fantasy Orienteering Manager
 
 Work in progress...
